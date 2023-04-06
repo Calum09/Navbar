@@ -1,3 +1,3 @@
 # Navbar
 
-A responsive Navbar created in JavaScript, HTML and CSS
+A responsive Navbar created with HTML & CSS
